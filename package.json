@@ -7,7 +7,7 @@
   "main": "serverless-webrtc.js",
   "dependencies": {
     "wrtc": "~0.0.29",
-    "ansi": "0.3.0"
+    "ansi": "0.3.1"
   },
   "repository": {
     "type": "git",
